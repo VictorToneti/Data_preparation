@@ -1,6 +1,10 @@
 import pandas as pd
 from sklearn.preprocessing import RobustScaler, MinMaxScaler, StandardScaler
 
+# Este código serve para comparar técnicas de padronização e normalização de variáveis numéricas (idade e salario) usando RobustScaler,
+# MinMaxScaler, StandardScaleraplica MinMaxScaler (intervalo padrão 0–1 e customizado -1–1), StandardScaler (z-score) 
+# e RobustScaler (mediana / IQR) e imprime resultados e estatísticas (mín, máx, média, desvio padrão) para cada transformação.
+
 
 pd.set_option("display.width", None)
 pd.set_option("display.max_colwidth", None)
