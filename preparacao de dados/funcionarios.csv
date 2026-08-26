@@ -1,0 +1,9 @@
+nome,departamento,nivel_experiencia,cidade,status,salario
+Ana,Vendas,Pleno,São Paulo,Ativo,5000
+Bruno,TI,Sênior,Rio de Janeiro,Ativo,8000
+Carlos,Vendas,Júnior,São Paulo,Inativo,3000
+Diana,RH,Pleno,Belo Horizonte,Ativo,5500
+Eduardo,TI,Júnior,Rio de Janeiro,Inativo,3200
+Fernanda,RH,Sênior,São Paulo,Ativo,8500
+Gabriel,Vendas,Pleno,Belo Horizonte,Ativo,5200
+Helena,TI,Júnior,São Paulo,Inativo,3100
